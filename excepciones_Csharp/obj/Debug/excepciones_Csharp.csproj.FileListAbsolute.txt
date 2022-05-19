@@ -1,0 +1,7 @@
+C:\Users\julia\OneDrive\Documents\GitHub\excepcionesCsharp\excepciones_Csharp\bin\Debug\excepciones_Csharp.exe.config
+C:\Users\julia\OneDrive\Documents\GitHub\excepcionesCsharp\excepciones_Csharp\bin\Debug\excepciones_Csharp.exe
+C:\Users\julia\OneDrive\Documents\GitHub\excepcionesCsharp\excepciones_Csharp\bin\Debug\excepciones_Csharp.pdb
+C:\Users\julia\OneDrive\Documents\GitHub\excepcionesCsharp\excepciones_Csharp\obj\Debug\excepciones_Csharp.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Documents\GitHub\excepcionesCsharp\excepciones_Csharp\obj\Debug\excepciones_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documents\GitHub\excepcionesCsharp\excepciones_Csharp\obj\Debug\excepciones_Csharp.exe
+C:\Users\julia\OneDrive\Documents\GitHub\excepcionesCsharp\excepciones_Csharp\obj\Debug\excepciones_Csharp.pdb
